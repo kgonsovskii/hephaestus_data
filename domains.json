@@ -1,3 +1,7 @@
 ﻿{
-  "domains": []
+  "domains": [
+{
+"enabled": true, "domain": "counter.yadro.ru"
+}
+]
 }
