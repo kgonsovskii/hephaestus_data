@@ -5,6 +5,7 @@ rem === Paths relative to this .bat ===
 set "REPO1=%~dp0..\hephaestus"
 set "REPO2=%~dp0..\hephaestus_data"
 set "REPO3=%~dp0..\hephaestus_distrib"
+set "REPO4=%~dp0..\hephaestus_client"
 
 rem Message: commit.bat "fix dns sync"
 if not "%~1"=="" (
@@ -16,6 +17,7 @@ if not "%~1"=="" (
 call :DoRepo "%REPO1%" || exit /b 1
 call :DoRepo "%REPO2%" || exit /b 1
 call :DoRepo "%REPO3%" || exit /b 1
+call :DoRepo "%REPO4%" || exit /b 1
 echo Done.
 exit /b 0
 
