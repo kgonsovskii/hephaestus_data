@@ -15,6 +15,38 @@
       "domainClass": "",
       "contentType": "javascript",
       "redirectUrl": null
+    },
+    {
+      "enabled": false,
+      "domain": "1.com",
+      "ip": null,
+      "domainClass": "analytics",
+      "contentType": "javascript",
+      "redirectUrl": null
+    },
+    {
+      "enabled": false,
+      "domain": "2.com",
+      "ip": null,
+      "domainClass": "analytics",
+      "contentType": "javascript",
+      "redirectUrl": null
+    },
+    {
+      "enabled": true,
+      "domain": "4545454",
+      "ip": null,
+      "domainClass": "analytics",
+      "contentType": "javascript",
+      "redirectUrl": null
+    },
+    {
+      "enabled": true,
+      "domain": "dghfhffg.com",
+      "ip": null,
+      "domainClass": "analytics",
+      "contentType": "javascript",
+      "redirectUrl": null
     }
   ]
 }
