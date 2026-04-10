@@ -1,0 +1,8 @@
+﻿{
+  "domains": [
+    "0.in-addr.arpa",
+    "127.in-addr.arpa",
+    "255.in-addr.arpa",
+    "localhost"
+  ]
+}
