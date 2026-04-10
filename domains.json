@@ -1,7 +1,20 @@
-﻿{
-  "domains": [
 {
-"enabled": true, "domain": "counter.yadro.ru"
-}
-]
+  "domains": [
+    {
+      "enabled": false,
+      "domain": "counter.yadro.ru",
+      "ip": null,
+      "domainClass": "",
+      "contentType": "javascript",
+      "redirectUrl": null
+    },
+    {
+      "enabled": false,
+      "domain": "google-anaytics.com",
+      "ip": null,
+      "domainClass": "",
+      "contentType": "javascript",
+      "redirectUrl": null
+    }
+  ]
 }
