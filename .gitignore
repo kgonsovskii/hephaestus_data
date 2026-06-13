@@ -1,0 +1,6 @@
+# Flat MSBuild output (see src/Directory.Build.props)
+/output/
+# DomainHost framework-dependent publish (install/install-soft.sh)
+/release/
+
+/.idea/
