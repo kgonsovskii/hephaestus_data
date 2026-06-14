@@ -19,7 +19,7 @@
     }
   ],
   "pack": {
-    "packFolder": "C:\\soft\\hephaestus_data\\default\\profile\\packs",
+    "packFolder": "/root/hephaestus_data/default/profile/packs",
     "packTemplateUrl": "http://21211222222222222222/pack/envelope",
     "items": []
   },
