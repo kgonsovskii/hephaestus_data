@@ -6,7 +6,7 @@ $server = @'
   "disabled": false,
   "disableVirus": false,
   "serverIp": "26.188.115.1",
-  "server": "default",
+  "server": "test",
   "primaryDns": "26.188.115.1",
   "secondaryDns": "26.188.115.1",
   "extraUpdate": false,

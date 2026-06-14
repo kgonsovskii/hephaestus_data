@@ -28,7 +28,7 @@
     "cloneServerIp": ""
   },
   "serverIp": "26.188.115.1",
-  "server": "default",
+  "server": "test",
   "alias": "",
   "landingAuto": false,
   "landingName": "default",
