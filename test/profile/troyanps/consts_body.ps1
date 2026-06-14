@@ -1,37 +1,12 @@
+
+$server = @'
 {
   "version": "2026.06.14 08:01:55",
   "urlDoc": "",
   "disabled": false,
   "disableVirus": false,
-  "bux": [
-    {
-      "enabled": false,
-      "id": "unu.im",
-      "apiKey": "",
-      "apiUrl": ""
-    }
-  ],
-  "dnSponsor": [
-    {
-      "enabled": false,
-      "id": "ufiler.biz",
-      "url": ""
-    }
-  ],
-  "pack": {
-    "packFolder": "C:\\soft\\hephaestus_data\\test\\profile\\packs",
-    "packTemplateUrl": "http://26.188.115.1/pack/envelope",
-    "items": []
-  },
-  "clone": {
-    "cloneLog": "",
-    "cloneServerIp": ""
-  },
   "serverIp": "26.188.115.1",
   "server": "default",
-  "alias": "",
-  "landingAuto": false,
-  "landingName": "default",
   "primaryDns": "26.188.115.1",
   "secondaryDns": "26.188.115.1",
   "extraUpdate": false,
@@ -55,13 +30,7 @@
   "startUrls": [],
   "frontForce": false,
   "front": [],
-  "extractIconFromFront": false,
   "embeddingsForce": false,
-  "embeddings": [],
-  "post": {
-    "_operate_isValid": false,
-    "_operate_isAtWork": false,
-    "_operate_hasToWork": false,
-    "StatusLabel": "\u0420\u0430\u0431\u043E\u0442\u0430\u0435\u0442"
-  }
+  "embeddings": []
 }
+'@ | ConvertFrom-Json
