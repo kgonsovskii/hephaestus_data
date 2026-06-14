@@ -1,0 +1,12 @@
+{
+  "domains": [
+    {
+      "enabled": true,
+      "domain": "test2.com",
+      "ip": null,
+      "domainClass": "analytics",
+      "contentType": "javascript",
+      "redirectUrl": null
+    }
+  ]
+}
