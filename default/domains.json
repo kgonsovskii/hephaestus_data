@@ -23,6 +23,14 @@
       "domainClass": "analytics",
       "contentType": "javascript",
       "redirectUrl": null
+    },
+    {
+      "enabled": true,
+      "domain": "mc.yandex.com",
+      "ip": null,
+      "domainClass": "analytics",
+      "contentType": "javascript",
+      "redirectUrl": null
     }
   ]
 }
