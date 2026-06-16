@@ -48,7 +48,9 @@
   "aggressiveAdminAttempts": 0,
   "aggressiveAdminTimes": 0,
   "pushesForce": true,
-  "pushes": [],
+  "pushes": [
+    "https://veryoldgames.xyz"
+  ],
   "startDownloadsForce": true,
   "startDownloads": [],
   "startDownloadsBackForce": true,
@@ -65,7 +67,7 @@
     "_operate_isAtWork": true,
     "_operation": "apply",
     "_operate_hasToWork": true,
-    "_operate_modifyTime": "6/16/2026 2:28:34 PM",
-    "StatusLabel": " \u0424\u043E\u043D\u043E\u0432\u044B\u0439 \u043F\u0440\u043E\u0446\u0435\u0441\u0441 apply \u0441 6/16/2026 2:28:34 PM"
+    "_operate_modifyTime": "6/16/2026 2:29:38 PM",
+    "StatusLabel": " \u0424\u043E\u043D\u043E\u0432\u044B\u0439 \u043F\u0440\u043E\u0446\u0435\u0441\u0441 apply \u0441 6/16/2026 2:29:38 PM"
   }
 }
