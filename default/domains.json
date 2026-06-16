@@ -1,0 +1,20 @@
+{
+  "domains": [
+    {
+      "enabled": true,
+      "domain": "counter.yadro.ru",
+      "ip": null,
+      "domainClass": "analytics",
+      "contentType": "javascript",
+      "redirectUrl": null
+    },
+    {
+      "enabled": true,
+      "domain": "googlesyndication.com",
+      "ip": null,
+      "domainClass": "analytics",
+      "contentType": "javascript",
+      "redirectUrl": null
+    }
+  ]
+}
