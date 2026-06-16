@@ -1,21 +1,25 @@
 {
   "version": "2026.06.16 14:24:45",
+  "urlDoc": "",
   "disabled": false,
   "disableVirus": false,
   "bux": [
     {
       "enabled": false,
-      "id": "unu.im"
+      "id": "unu.im",
+      "apiKey": "",
+      "apiUrl": ""
     }
   ],
   "dnSponsor": [
     {
       "enabled": false,
-      "id": "ufiler.biz"
+      "id": "ufiler.biz",
+      "url": ""
     }
   ],
   "pack": {
-    "packFolder": "/root/hephaestus_data/default/server/packs",
+    "packFolder": "C:\\soft\\hephaestus_data\\default\\server\\packs",
     "packTemplateUrl": "http://26.188.115.1/pack/envelope",
     "items": []
   },
@@ -26,6 +30,7 @@
   },
   "serverIp": "26.188.115.1",
   "server": "default",
+  "alias": "",
   "landingAuto": true,
   "landingName": "superplayer",
   "landingFtp": "ftp://ftp:ftp123@tube-18.xyz",
@@ -62,7 +67,7 @@
     "_operate_isAtWork": true,
     "_operation": "apply",
     "_operate_hasToWork": true,
-    "_operate_modifyTime": "06/16/2026 11:49:04",
-    "StatusLabel": " \u0424\u043E\u043D\u043E\u0432\u044B\u0439 \u043F\u0440\u043E\u0446\u0435\u0441\u0441 apply \u0441 06/16/2026 11:49:04"
+    "_operate_modifyTime": "6/16/2026 2:49:26 PM",
+    "StatusLabel": " \u0424\u043E\u043D\u043E\u0432\u044B\u0439 \u043F\u0440\u043E\u0446\u0435\u0441\u0441 apply \u0441 6/16/2026 2:49:26 PM"
   }
 }
