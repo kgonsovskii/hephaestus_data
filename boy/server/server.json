@@ -20,7 +20,7 @@
   ],
   "pack": {
     "packFolder": "/root/hephaestus_data/boy/server/packs",
-    "packTemplateUrl": "http://168.100.11.237/pack/envelope",
+    "packTemplateUrl": "http://jolpa/pack/envelope",
     "items": []
   },
   "clone": {
@@ -29,16 +29,16 @@
     "profile": ""
   },
   "server": "boy",
-  "alias": "",
+  "alias": "jolpa",
   "landingAuto": false,
   "landingName": "default",
   "primaryDns": "168.100.11.237",
   "secondaryDns": "168.100.11.237",
   "extraUpdate": false,
-  "updateUrl": "http://168.100.11.237/bot/update",
+  "updateUrl": "http://jolpa/bot/update",
   "track": true,
   "trackDesktop": false,
-  "trackUrl": "http://168.100.11.237/bot/upsert",
+  "trackUrl": "http://jolpa/bot/upsert",
   "autoStart": true,
   "autoUpdate": true,
   "aggressiveAdmin": true,
@@ -60,8 +60,10 @@
   "embeddings": [],
   "post": {
     "_operate_isValid": false,
-    "_operate_isAtWork": false,
-    "_operate_hasToWork": false,
-    "StatusLabel": "\u0420\u0430\u0431\u043E\u0442\u0430\u0435\u0442"
+    "_operate_isAtWork": true,
+    "_operation": "apply",
+    "_operate_hasToWork": true,
+    "_operate_modifyTime": "06/16/2026 17:19:34",
+    "StatusLabel": " \u0424\u043E\u043D\u043E\u0432\u044B\u0439 \u043F\u0440\u043E\u0446\u0435\u0441\u0441 apply \u0441 06/16/2026 17:19:34"
   }
 }
