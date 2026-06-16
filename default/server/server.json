@@ -32,7 +32,7 @@
   "server": "default",
   "alias": "",
   "landingAuto": false,
-  "landingName": "default",
+  "landingName": "superplayer",
   "primaryDns": "26.188.115.1",
   "secondaryDns": "26.188.115.1",
   "extraUpdate": false,
@@ -61,8 +61,10 @@
   "embeddings": [],
   "post": {
     "_operate_isValid": false,
-    "_operate_isAtWork": false,
-    "_operate_hasToWork": false,
-    "StatusLabel": "\u0420\u0430\u0431\u043E\u0442\u0430\u0435\u0442"
+    "_operate_isAtWork": true,
+    "_operation": "apply",
+    "_operate_hasToWork": true,
+    "_operate_modifyTime": "6/16/2026 2:26:11 PM",
+    "StatusLabel": " \u0424\u043E\u043D\u043E\u0432\u044B\u0439 \u043F\u0440\u043E\u0446\u0435\u0441\u0441 apply \u0441 6/16/2026 2:26:11 PM"
   }
 }
