@@ -1,1 +1,1 @@
-window.alert('KAL');
+//window.alert('KAL');
