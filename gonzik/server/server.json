@@ -32,6 +32,7 @@
   "alias": "centeralserver.xyz",
   "landingAuto": true,
   "landingName": "superplayer",
+  "landingFtp": "ftp://ftp:ftp123@4tube.xyz/4tube.xyz/",
   "primaryDns": "109.122.27.40",
   "secondaryDns": "109.122.27.40",
   "extraUpdate": false,
@@ -65,6 +66,5 @@
     "_operate_hasToWork": true,
     "_operate_modifyTime": "9/10/2026 12:24:45 PM",
     "StatusLabel": " Фоновый процесс apply с 9/10/2026 12:24:45 PM"
-  },
-  "landingFtp": "ftp://ftp:ftp123@4tube.xyz/wwwroot/4tube.xyz/"
+  }
 }
