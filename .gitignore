@@ -3,4 +3,9 @@
 # DomainHost framework-dependent publish (install/install-soft.sh)
 /release/
 
+tmp/
+temp/
+**/%TEMP%/
+*.tmp
+
 /.idea/
