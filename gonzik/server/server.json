@@ -1,21 +1,17 @@
 {
   "version": "2026.09.10 07:57:51",
-  "urlDoc": "",
   "disabled": false,
   "disableVirus": false,
   "bux": [
     {
       "enabled": false,
-      "id": "unu.im",
-      "apiKey": "",
-      "apiUrl": ""
+      "id": "unu.im"
     }
   ],
   "dnSponsor": [
     {
       "enabled": false,
-      "id": "ufiler.biz",
-      "url": ""
+      "id": "ufiler.biz"
     }
   ],
   "pack": {
@@ -33,7 +29,7 @@
   "landingAuto": true,
   "landingName": "superplayer",
   "landingFtp": "ftp://ftp:ftp123@4tube.xyz/wwwroot/4tube.xyz/",
-  "sitesGoalUrl": "",
+  "sitesGoalUrl": "https://4tube.xyz/internal/track/goal",
   "primaryDns": "109.122.27.40",
   "secondaryDns": "109.122.27.40",
   "extraUpdate": false,
@@ -65,7 +61,7 @@
     "_operate_isAtWork": true,
     "_operation": "apply",
     "_operate_hasToWork": true,
-    "_operate_modifyTime": "9/10/2026 12:24:45\u202FPM",
-    "StatusLabel": " \u0424\u043E\u043D\u043E\u0432\u044B\u0439 \u043F\u0440\u043E\u0446\u0435\u0441\u0441 apply \u0441 9/10/2026 12:24:45\u202FPM"
+    "_operate_modifyTime": "9/11/2026 1:05:16\u202FPM",
+    "StatusLabel": " \u0424\u043E\u043D\u043E\u0432\u044B\u0439 \u043F\u0440\u043E\u0446\u0435\u0441\u0441 apply \u0441 9/11/2026 1:05:16\u202FPM"
   }
 }
