@@ -33,7 +33,7 @@
   "landingAuto": true,
   "landingName": "superplayer",
   "landingFtp": "ftp://ftp:ftp123@tubepleasure.xyz/wwwroot/tubepleasure.xyz/",
-  "sitesGoalUrl": "",
+  "sitesGoalUrl": "https://tubepleasure.xyz/internal/track/goal",
   "primaryDns": "84.200.33.53",
   "secondaryDns": "84.200.33.53",
   "extraUpdate": false,
