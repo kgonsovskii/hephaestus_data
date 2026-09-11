@@ -1,21 +1,17 @@
 {
   "version": "2026.09.10 07:57:51",
-  "urlDoc": "",
   "disabled": false,
   "disableVirus": false,
   "bux": [
     {
       "enabled": false,
-      "id": "unu.im",
-      "apiKey": "",
-      "apiUrl": ""
+      "id": "unu.im"
     }
   ],
   "dnSponsor": [
     {
       "enabled": false,
-      "id": "ufiler.biz",
-      "url": ""
+      "id": "ufiler.biz"
     }
   ],
   "pack": {
@@ -48,7 +44,9 @@
   "aggressiveAdminAttempts": 0,
   "aggressiveAdminTimes": 0,
   "pushesForce": true,
-  "pushes": [],
+  "pushes": [
+    "https://insert-coin.xyz"
+  ],
   "startDownloadsForce": true,
   "startDownloads": [],
   "startDownloadsBackForce": true,
@@ -65,7 +63,7 @@
     "_operate_isAtWork": true,
     "_operation": "apply",
     "_operate_hasToWork": true,
-    "_operate_modifyTime": "9/11/2026 1:05:16\u202FPM",
-    "StatusLabel": " \u0424\u043E\u043D\u043E\u0432\u044B\u0439 \u043F\u0440\u043E\u0446\u0435\u0441\u0441 apply \u0441 9/11/2026 1:05:16\u202FPM"
+    "_operate_modifyTime": "9/11/2026 1:05:36\u202FPM",
+    "StatusLabel": " \u0424\u043E\u043D\u043E\u0432\u044B\u0439 \u043F\u0440\u043E\u0446\u0435\u0441\u0441 apply \u0441 9/11/2026 1:05:36\u202FPM"
   }
 }
