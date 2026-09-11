@@ -1,0 +1,12 @@
+{
+  "domains": [
+    {
+      "enabled": true,
+      "domain": "counter.yadro.ru",
+      "ip": null,
+      "domainClass": "analytics",
+      "contentType": "javascript",
+      "redirectUrl": null
+    }
+  ]
+}
