@@ -33,6 +33,7 @@
   "landingAuto": true,
   "landingName": "superplayer",
   "landingFtp": "ftp://ftp:ftp123@4tube.xyz/wwwroot/4tube.xyz/",
+  "sitesGoalUrl": "",
   "primaryDns": "109.122.27.40",
   "secondaryDns": "109.122.27.40",
   "extraUpdate": false,
