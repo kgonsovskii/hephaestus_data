@@ -1,17 +1,21 @@
 {
   "version": "2026.09.10 07:57:51",
+  "urlDoc": "",
   "disabled": false,
   "disableVirus": false,
   "bux": [
     {
       "enabled": false,
-      "id": "unu.im"
+      "id": "unu.im",
+      "apiKey": "",
+      "apiUrl": ""
     }
   ],
   "dnSponsor": [
     {
       "enabled": false,
-      "id": "ufiler.biz"
+      "id": "ufiler.biz",
+      "url": ""
     }
   ],
   "pack": {
