@@ -32,7 +32,7 @@
   "alias": "centeralserver.xyz",
   "landingAuto": true,
   "landingName": "superplayer",
-  "landingFtp": "ftp://ftp:ftp123@4tube.xyz/4tube.xyz/",
+  "landingFtp": "ftp://ftp:ftp123@4tube.xyz/wwwroot/4tube.xyz/",
   "primaryDns": "109.122.27.40",
   "secondaryDns": "109.122.27.40",
   "extraUpdate": false,
